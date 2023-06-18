@@ -1,0 +1,3 @@
+-- Deleting a Database from mysql server
+-- deletes hbtn_0c_0
+DROP DATABASE IF EXISTS hbtn_0c_0;
